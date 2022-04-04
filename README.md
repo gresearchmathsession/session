@@ -1,2 +1,2 @@
-# session
-Data and notebook for the G-Research math session.
+# 2022 G-Research Insights Week Maths and Statistics Session
+Data and notebook. 
